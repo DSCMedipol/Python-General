@@ -4,7 +4,7 @@
 
 
 <br>
-Dependencies:
+<b><i>Dependencies:</i></b>
 <li>Google Colab / Jupyter Notebook</li>
 <li>Python 3.x.x</li>
 <li>selenium</li>
