@@ -1,7 +1,8 @@
-This is a simple script made to get the highest word typing on the site called typings.gg:
-However, it can also be used on other typing sites (the general working principle is the same for all) by making some small changes.
+<p align="center">
+  <img src="https://i.ibb.co/YDmvx7r/Whats-App-Image-2020-10-29-at-12-07-28-PM.jpg">
+</p>
 
 
-
-
-MADE FOR HACK CLUB!
+<br>
+<b><i>About:</i></b>
+<li>A simple script to run and get the fastest typing result on the typing website called as "typings.gg"</li>
