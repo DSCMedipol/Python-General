@@ -12,9 +12,10 @@ browser = webdriver.Chrome("C:\Program Files\chromedriver\chromedriver.exe")
 url = "https://typings.gg"
 browser.get(url)
 time.sleep(1)
-# The total word count:
 
+# The total word count:
 theButton = browser.find_element_by_xpath("//*[@id='wc-250']")
+                                          #//*[@id="wc-250"]
 theButton.click()
 
 time.sleep(1)
